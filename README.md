@@ -1,10 +1,10 @@
 # Date created
 04.02.2020
 
-#Project Title
+# Project Title
 Exploration of the data-side of Africa
 
-#Description
+# Description
 This repository dives in the GDP, Children per Woman and Child Mortality rate of countries in Africa
 It uses Python 3 and is excecuted by opening the file in the Jupyter Notebook.
 
